@@ -15,16 +15,19 @@ For Installation :https://www.python.org/downloads/
 ## Installation Guide
 
 You need to download:
+
   1.Client_CountryCity.py
   2.Graphics_CountryCity.py
   3.media
  
-If you are the host -- download 'Server_CountryCity.py'
+*If you are the host -- download > Server_CountryCity.py *
+
 and start it before starting the game itself.
 
 Starting the game:
-  *Host: run Server_CountryCity.py
-  
-  run Client_CountryCity.py
 
-***make sure that the 'media' folder is in the same directory/path of the rest of the files. 
+Host: run Server_CountryCity.py
+  
+Run in cmd or Pycharm Client_CountryCity.py
+
+**make sure that the 'media' folder is in the same directory/path of the rest of the files.** 
