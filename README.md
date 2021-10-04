@@ -22,12 +22,12 @@ You need to download:
  
 *If you are the host*
 * download > Server_CountryCity.py
-* 
+ 
 and start it before starting the game itself.
 
 Starting the game:
 
-- Host: run Server_CountryCity.py
+- Host: Run Server_CountryCity.py
   
 - Run in cmd or Pycharm Client_CountryCity.py
 
