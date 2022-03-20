@@ -33,4 +33,6 @@ Starting the game:
 
 **make sure that the 'media' folder is in the same directory/path of the rest of the files.** 
 
+Currentlly works only with python27, it will update anytime soon !!
+
 Have Fun !!! :+1:
