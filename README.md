@@ -1,9 +1,9 @@
 # Country City
 
-Country City is a well-known all-ages game, that I used to play since I can remember myself.
+Country City is a well-known all-ages game.
 
-This program that I wrote is the Online version of it.
-The program is written in Python, and uses Socket as a connection interface.
+This program is the Online version of the game.
+Written in Python(2.7), and uses Socket as a connection interface.
 
 
 ## requirements
